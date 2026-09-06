@@ -78,7 +78,7 @@ O circuito foi desenhado no EasyEDA.
 Gravei um vídeo mostrando o funcionamento e o processo de montagem
 do mini ventilador.
 
-> 🎀 Vídeo: [coloque o link aqui]
+> 🎀 Vídeo: [▶️ Assistir ao vídeo](ventilador.mp4)
 
 ## 🌱 O que aprendi
 
