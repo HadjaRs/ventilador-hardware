@@ -71,7 +71,7 @@ no projeto.
 
 O circuito foi desenhado no EasyEDA.
 
-![Esquemático](esquematico/esquemático.png)
+![Esquemático do ventilador](esquemático.png)
 
 ## 🎥 Demonstração
 
