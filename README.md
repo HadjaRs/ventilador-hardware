@@ -71,7 +71,7 @@ no projeto.
 
 O circuito foi desenhado no EasyEDA.
 
-![Esquemático](esquematico/ventilador-3v.png)
+![Esquemático](esquematico/esquemático.png)
 
 ## 🎥 Demonstração
 
